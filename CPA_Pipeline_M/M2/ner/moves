@@ -1,0 +1,32 @@
+«transitionsÚŠ[
+  {
+    "clas":0,
+    "move":1,
+    "label":"Header",
+    "name":"B-Header"
+  },
+  {
+    "clas":1,
+    "move":2,
+    "label":"Header",
+    "name":"I-Header"
+  },
+  {
+    "clas":2,
+    "move":3,
+    "label":"Header",
+    "name":"L-Header"
+  },
+  {
+    "clas":3,
+    "move":4,
+    "label":"Header",
+    "name":"U-Header"
+  },
+  {
+    "clas":4,
+    "move":5,
+    "label":"",
+    "name":"O"
+  }
+]
